@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561626855248",
+    "project_id": "opx-app",
+    "storage_bucket": "opx-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561626855248:android:aacc104ccf95c551d6de55",
+        "android_client_info": {
+          "package_name": "com.cleberrobson.opxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561626855248-cgop47mc833p24ev2kub0a9luips6k84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxAr1kLs4_jKb1YaX7KNJ0r_H-n8j98I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561626855248-cgop47mc833p24ev2kub0a9luips6k84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
